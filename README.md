@@ -6,11 +6,8 @@ A classic **Snake Game** built with **Python** and **Pygame**, featuring smooth 
 
 ## 🎮 Game Preview
 
-<p align="center">
-  <img src="screenshots/gameplay.png" alt="Gameplay Screenshot" width="600">
-</p>
+<img width="1920" height="1200" alt="Screenshot 2025-09-01 200712" src="https://github.com/user-attachments/assets/c470a3df-f493-4d6f-8cc2-fc4a2333c259" />
 
-*(Add your own screenshot inside a `screenshots/` folder and update the file path above.)*
 
 ---
 
@@ -44,8 +41,6 @@ A classic **Snake Game** built with **Python** and **Pygame**, featuring smooth 
 6. Press **ESC** to quit the game.  
 
 ---
-## Screenshot
-<img width="1920" height="1200" alt="Screenshot 2025-09-01 200712" src="https://github.com/user-attachments/assets/9dd9bf74-cbcf-4edc-8797-22c9bebd95fd" />
 
 
 ## ⚙️ Installation & Run
@@ -97,5 +92,6 @@ Copy code
 👉 If you want, I can also show you **exact code to add screenshots** (like `gameplay.png`, `gameover.png`) inside your README so it looks professional.  
 
 Would you like me to prepare a **ready-made screenshots section with placeholders for multiple images** (Gameplay, Game Over, Resta
+
 
 
