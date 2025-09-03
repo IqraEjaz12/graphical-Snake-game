@@ -1,4 +1,4 @@
-:
+
 
 🐍 Snake Game (Pygame)
 
