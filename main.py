@@ -46,8 +46,8 @@ Restart anytime after game over by pressing SPACE.
 
 ⚙️ Installation & Setup
 
-Make sure you have Python 3 and Pygame installed.
-'''python
+Make sure you have Python 3 and Pygame install
+```python
 # Clone the repository
 git clone https://github.com/your-username/snake-game.git
 
@@ -59,6 +59,6 @@ pip install pygame
 
 # Run the game
 python snake.py
-'''
+```
 
 
